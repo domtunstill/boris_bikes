@@ -1,56 +1,46 @@
-Boris Bikes
+## Boris Bikes
 
 Boris bikes is a network of docking systems with bikes that anyone can access.
 
-Motivation
+## Motivation
 To learn to:
 Test-drive a simple program using objects and methods
 Pair using the driver-navigator style
 Follow an effective debugging process
 Describe some basic OO principles like encapsulation, SRP
 
-Build status
+### Build status
 
 
-Code style
+### Code style
 
 ruby-standard-style
 
-Screenshots
+### Screenshots
 
 
-Tech/framework used
+### Features
 
 
-Built with
+### Code Example
 
 
-Features
+### Installation
+* Using Ruby version 2.6.3
+
+### Tests
 
 
-Code Example
+### How to use?
 
 
-Installation
+### Contribute
 
 
-API Reference
+### Credits
 
 
-Tests
+### License
 
 
-How to use?
-
-
-Contribute
-
-
-Credits
-
-
-
-
-
-
-MIT © DomTunstill
+MIT © DomTunstill nateg101
