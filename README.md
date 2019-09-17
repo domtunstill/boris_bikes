@@ -29,7 +29,7 @@ ruby-standard-style
 * Using Ruby version 2.6.3
 
 ### Tests
-
+* Framework: RSpec
 
 ### How to use?
 
