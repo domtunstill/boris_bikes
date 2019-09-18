@@ -4,10 +4,6 @@ class DockingStation
 
   attr_reader :bike
 
-  def initialize
-    @bike
-  end
-
   def release_bike
     raise "No bikes available" unless @bike
     @bike
