@@ -2,7 +2,7 @@ require_relative 'bike'
 
 class DockingStation
 
-  attr_reader :bike
+  # attr_reader :bike
 
   def release_bike
     raise "No bikes available" unless @bike
@@ -10,6 +10,7 @@ class DockingStation
   end
 
  def dock_bike(bike)
+   raise "Docking station is full" while @bike
    @bike = bike
  end
 
