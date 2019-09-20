@@ -22,7 +22,7 @@ class DockingStation
     raise "No working bikes"
   end
 
- def dock_bike(bike)
+ def dock(bike)
    raise "Docking station is full" if full?
    @bikes << bike
  end
